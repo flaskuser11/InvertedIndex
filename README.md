@@ -13,7 +13,7 @@ This progam is intended for showing the indexer and retriever functionalities on
 
 
 ## Running:
-python InvertedIndex.py [data_folder] [string] [out_type]
+python InvertedIndex.py [data_dir] [string] [out_type]
 
 where:
 - data_dir is the folder containing the emails or the files/texts files
